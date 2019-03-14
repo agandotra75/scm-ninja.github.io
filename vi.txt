@@ -17,7 +17,7 @@ This is master brach changes
 
 This is a master branch commit.
 
-Git reabe lectures
+Git reabe lectures and tutorials
 
 
 

@@ -4,7 +4,7 @@
 
 
 
-s This is a test file:wq
+s This is a test file:wq  Teh is s 
 :qw
 
 

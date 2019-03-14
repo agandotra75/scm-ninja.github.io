@@ -7,6 +7,7 @@
 s This is a test file:wq  Teh is s 
 :qw
 
+This is amit.
 
 Amit Test 1
 Amit Test 2

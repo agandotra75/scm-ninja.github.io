@@ -15,6 +15,7 @@ Changes in develop branch.
 
 This is master brach changes
 
+This is a master branch commit.
 
 
 

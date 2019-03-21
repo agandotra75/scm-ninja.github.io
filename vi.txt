@@ -1,5 +1,7 @@
 This is a test stash project.
 
+This is for the tagging
+
 :wq
 
 --

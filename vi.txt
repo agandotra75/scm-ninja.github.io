@@ -1,3 +1,7 @@
+This is a test stash project.
+
+This is for the tagging
+
 :wq
 
 --
@@ -11,7 +15,7 @@ This is amit.
 
 =======
 Changes in develop branch.
-
+ This is a test file
 
 This is master brach changes
 
